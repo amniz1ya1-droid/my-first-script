@@ -1,4 +1,4 @@
-## Я написал скрипт для машины [The Server From Hell]([link](https://tryhackme.com/room/theserverfromhell) который использовал в своём [writeup]([link](https://github.com/amniz1ya1-droid/tryhackme-writeups/blob/main/medium-rooms/linux/the-server-from-hell/README.md). А вот и он:
+## Я написал скрипт для машины [The Server From Hell](https://tryhackme.com/room/theserverfromhell) который использовал в своём [writeup](https://github.com/amniz1ya1-droid/tryhackme-writeups/blob/main/medium-rooms/linux/the-server-from-hell/README.md). А вот и он:
 
 ```bash
 #!/bin/bash
